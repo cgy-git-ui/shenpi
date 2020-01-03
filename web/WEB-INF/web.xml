@@ -12,7 +12,7 @@
 
     <servlet-mapping>
         <servlet-name>NewsUserServlet</servlet-name>
-        <url-pattern>/</url-pattern>
+        <url-pattern>/util/user</url-pattern>
     </servlet-mapping>
 
 

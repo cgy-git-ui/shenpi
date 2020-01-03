@@ -1,0 +1,100 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.login-box-title {
+	height: 39px;
+	border-bottom: 1px solid #dbdbdb;
+	line-height: 39px;
+	color: #8d8d8d;
+	position: relative;
+    left: 561px;
+	
+
+}
+
+.header-1 {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 480px;
+	float: left;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.header-1 img {
+	width: 480px;
+}
+
+
+
+
+.login-box p input {
+	height: 37px;
+	width: 351px;
+
+}
+
+
+.login-box p {
+	position: relative;
+	right: -249px;
+
+}
+
+
+.login-box {
+	width: 868px;
+	margin: 0 auto;
+	margin-top: 6px;
+	border: 1px solid #fafafa;
+	height: 868px;
+	float: right;
+	margin-right: 88px;
+	line-height: 76px;
+
+}
+
+#login-box-1 {
+
+	position: absolute;
+	right: 152px;
+	bottom: -81px;
+
+}
+
+
+.foot {
+	font-size: 14px;
+	color: #bbb;
+	text-align: center;
+	margin: 30px 0;
+	font-weight: lighter;
+	position: absolute;
+	bottom: -194px;
+	left: 802px;
+}
+
+
+	
+	
+
+
+
+
+
+
+/* .login-box-2 input:nth-child(0){
+
+	height: 20px;
+	width: 20px;
+	
+	
+	
+} */
+
